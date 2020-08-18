@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_acer_cot_test1</description>
+        <express_security>false</express_security>
+        <name>x_acer_cot_test1</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>aceradmin</sys_created_by>
+        <sys_created_on>2020-08-18 04:39:53</sys_created_on>
+        <sys_id>ee8ff8c85372101071a3ddeeff7b12e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_acer_cot_test1</sys_name>
+        <sys_package display_value="cot" source="x_acer_cot">8d53a703c7021010908245ece8c2606c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="cot">8d53a703c7021010908245ece8c2606c</sys_scope>
+        <sys_update_name>sys_security_acl_ee8ff8c85372101071a3ddeeff7b12e9</sys_update_name>
+        <sys_updated_by>aceradmin</sys_updated_by>
+        <sys_updated_on>2020-08-18 04:39:53</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="cot">8d53a703c7021010908245ece8c2606c</claim_owner_scope>
+        <claim_timestamp>173ffddfb490000001</claim_timestamp>
+        <metadata_update_name>sys_security_acl_ee8ff8c85372101071a3ddeeff7b12e9</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>cot</previous_claim_name>
+        <previous_claim_scope>8d53a703c7021010908245ece8c2606c</previous_claim_scope>
+        <sys_created_by>aceradmin</sys_created_by>
+        <sys_created_on>2020-08-18 04:40:04</sys_created_on>
+        <sys_id>1d9f7cc85372101071a3ddeeff7b123f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>aceradmin</sys_updated_by>
+        <sys_updated_on>2020-08-18 04:40:04</sys_updated_on>
+    </sys_claim>
+</record_update>

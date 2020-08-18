@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>test1</name>
+        <order/>
+        <roles>x_acer_cot.test1_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>aceradmin</sys_created_by>
+        <sys_created_on>2020-08-18 04:39:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ae8ff8c85372101071a3ddeeff7b12c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="cot" source="x_acer_cot">8d53a703c7021010908245ece8c2606c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="cot">8d53a703c7021010908245ece8c2606c</sys_scope>
+        <sys_update_name>sys_ui_application_ae8ff8c85372101071a3ddeeff7b12c0</sys_update_name>
+        <sys_updated_by>aceradmin</sys_updated_by>
+        <sys_updated_on>2020-08-18 04:39:53</sys_updated_on>
+    </sys_ui_application>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="cot">8d53a703c7021010908245ece8c2606c</claim_owner_scope>
+        <claim_timestamp>173ffddfb330000001</claim_timestamp>
+        <metadata_update_name>sys_ui_application_ae8ff8c85372101071a3ddeeff7b12c0</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>cot</previous_claim_name>
+        <previous_claim_scope>8d53a703c7021010908245ece8c2606c</previous_claim_scope>
+        <sys_created_by>aceradmin</sys_created_by>
+        <sys_created_on>2020-08-18 04:40:04</sys_created_on>
+        <sys_id>dd9f7cc85372101071a3ddeeff7b123c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>aceradmin</sys_updated_by>
+        <sys_updated_on>2020-08-18 04:40:04</sys_updated_on>
+    </sys_claim>
+</record_update>

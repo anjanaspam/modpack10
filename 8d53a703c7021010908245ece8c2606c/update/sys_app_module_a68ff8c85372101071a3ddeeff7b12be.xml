@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="test1">228ff8c85372101071a3ddeeff7b12bc</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>test1s</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_acer_cot_test1</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_acer_cot.test1_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>aceradmin</sys_created_by>
+        <sys_created_on>2020-08-18 04:39:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a68ff8c85372101071a3ddeeff7b12be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test1s</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="cot" source="x_acer_cot">8d53a703c7021010908245ece8c2606c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="cot">8d53a703c7021010908245ece8c2606c</sys_scope>
+        <sys_update_name>sys_app_module_a68ff8c85372101071a3ddeeff7b12be</sys_update_name>
+        <sys_updated_by>aceradmin</sys_updated_by>
+        <sys_updated_on>2020-08-18 04:39:53</sys_updated_on>
+        <timeline_page/>
+        <title>test1s</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="cot">8d53a703c7021010908245ece8c2606c</claim_owner_scope>
+        <claim_timestamp>173ffddfb570000001</claim_timestamp>
+        <metadata_update_name>sys_app_module_a68ff8c85372101071a3ddeeff7b12be</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>cot</previous_claim_name>
+        <previous_claim_scope>8d53a703c7021010908245ece8c2606c</previous_claim_scope>
+        <sys_created_by>aceradmin</sys_created_by>
+        <sys_created_on>2020-08-18 04:40:04</sys_created_on>
+        <sys_id>d59f7cc85372101071a3ddeeff7b1241</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>aceradmin</sys_updated_by>
+        <sys_updated_on>2020-08-18 04:40:04</sys_updated_on>
+    </sys_claim>
+</record_update>
