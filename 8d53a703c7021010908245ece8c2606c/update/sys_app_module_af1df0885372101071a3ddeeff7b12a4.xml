@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="hello">231df0885372101071a3ddeeff7b12a2</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>hellos</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_acer_cot_hello</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_acer_cot.hello_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-18 04:29:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>af1df0885372101071a3ddeeff7b12a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>hellos</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="cot" source="x_acer_cot">8d53a703c7021010908245ece8c2606c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="cot">8d53a703c7021010908245ece8c2606c</sys_scope>
+        <sys_update_name>sys_app_module_af1df0885372101071a3ddeeff7b12a4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-18 04:29:18</sys_updated_on>
+        <timeline_page/>
+        <title>hellos</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="cot">8d53a703c7021010908245ece8c2606c</claim_owner_scope>
+        <claim_timestamp>173ffd4fa500000001</claim_timestamp>
+        <metadata_update_name>sys_app_module_af1df0885372101071a3ddeeff7b12a4</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>cot</previous_claim_name>
+        <previous_claim_scope>8d53a703c7021010908245ece8c2606c</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-18 04:30:14</sys_created_on>
+        <sys_id>955db4885372101071a3ddeeff7b12cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-18 04:30:14</sys_updated_on>
+    </sys_claim>
+</record_update>
